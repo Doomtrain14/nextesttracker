@@ -18,3 +18,13 @@ D:\Google Drive\Development\Visual Basic .NET\NextestUITracker.NET\nxtuitracker\
 D:\Google Drive\Development\Visual Basic .NET\NextestUITracker.NET\nxtuitracker\systemservice\obj\Debug\systemservice.exe
 D:\Google Drive\Development\Visual Basic .NET\NextestUITracker.NET\nxtuitracker\systemservice\obj\Debug\systemservice.xml
 D:\Google Drive\Development\Visual Basic .NET\NextestUITracker.NET\nxtuitracker\systemservice\obj\Debug\systemservice.pdb
+D:\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.exe.config
+D:\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.exe
+D:\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.pdb
+D:\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.xml
+D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.frm_system_svc.resources
+D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.Resources.resources
+D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.vbproj.GenerateResource.Cache
+D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.exe
+D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.xml
+D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.pdb
