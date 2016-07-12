@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "nxtuitracker", "nxtuitracker\nxtuitracker.vbproj", "{8D6B0CA5-5FE3-4974-9B53-537EEC8FF75D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "systemservice", "systemservice\systemservice.vbproj", "{01556481-F900-495D-8FE9-4E6E90250C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6B0CA5-5FE3-4974-9B53-537EEC8FF75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6B0CA5-5FE3-4974-9B53-537EEC8FF75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6B0CA5-5FE3-4974-9B53-537EEC8FF75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6B0CA5-5FE3-4974-9B53-537EEC8FF75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01556481-F900-495D-8FE9-4E6E90250C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01556481-F900-495D-8FE9-4E6E90250C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01556481-F900-495D-8FE9-4E6E90250C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01556481-F900-495D-8FE9-4E6E90250C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
