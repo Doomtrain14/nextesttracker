@@ -118,11 +118,11 @@ Public Class Form1
             MessageBox.Show("Already using " & m_UI.Version & " Nextest UI Version", "Change UI", MessageBoxButtons.OK, MessageBoxIcon.Information)
             Exit Sub
         Else
-            Dim result As Integer
-            result = MessageBox.Show("Are you sure you want to change UI Version from " & m_UI.Version & " to " & sender.ToString, "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
-            If result = vbNo Then
-                Exit Sub
-            End If
+            'Dim result As Integer
+            'result = MessageBox.Show("Are you sure you want to change UI Version from " & m_UI.Version & " to " & sender.ToString, "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+            'If result = vbNo Then
+            '    Exit Sub
+            'End If
         End If
 
         frm_changeui.targetui = sender.ToString

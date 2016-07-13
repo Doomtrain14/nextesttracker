@@ -28,3 +28,13 @@ D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.vbproj.GenerateRe
 D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.exe
 D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.xml
 D:\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.pdb
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.exe.config
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.exe
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.pdb
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\bin\Debug\systemservice.xml
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.frm_system_svc.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.Resources.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.vbproj.GenerateResource.Cache
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.exe
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.xml
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\systemservice\obj\Debug\systemservice.pdb

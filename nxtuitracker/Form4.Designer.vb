@@ -187,7 +187,7 @@ Partial Class frm_changeui
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(271, 26)
         Me.Button1.TabIndex = 26
-        Me.Button1.Text = "Cancel"
+        Me.Button1.Text = "Proceed"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'frm_changeui

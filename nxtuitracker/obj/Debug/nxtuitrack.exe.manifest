@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nxtuitrack.exe" size="71168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nxtuitrack.exe" size="71680">
       <assemblyIdentity name="nxtuitrack" version="2.1.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Gs0cZ00hkvgR3ydyuF1RRjnmYBM=</dsig:DigestValue>
+        <dsig:DigestValue>pbp/++ayH18OpQ+efzKBU90kHzc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

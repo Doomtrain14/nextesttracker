@@ -32,3 +32,20 @@ D:\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.Resources.resources
 D:\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitracker.vbproj.GenerateResource.Cache
 D:\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.exe.manifest
 D:\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.application
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\bin\Debug\nxtuitrack.exe.config
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.exe
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.xml
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.pdb
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\bin\Debug\nxtuitrack.exe.manifest
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\bin\Debug\nxtuitrack.application
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\bin\Debug\nxtuitrack.exe
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\bin\Debug\nxtuitrack.pdb
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\bin\Debug\nxtuitrack.xml
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.Form1.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.frm_env.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.frm_mini.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.frm_changeui.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.Resources.resources
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitracker.vbproj.GenerateResource.Cache
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.exe.manifest
+C:\Users\yebreo1\Desktop\Yet Folder\GitHub\nextesttracker\nxtuitracker\obj\Debug\nxtuitrack.application
